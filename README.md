@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Orit Leshem</h1>
+<h1 align="center">Hi!  I'm Orit Leshem 👋</h1>
 <h3 align="center">A passionate fullstack developer from Canada</h3>
 
  🌱 I’m currently working on a spotify clone in react.js, node.js and mongoDB 
