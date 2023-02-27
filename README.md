@@ -7,11 +7,11 @@
  
  💙 Fun fact: I love cross-fit, food, and hanging out with my family and friends
 
-- 👨‍💻 All of my projects are available at [https://github.com/OritLeshem](https://github.com/OritLeshem)
+ 👨‍💻 All of my projects are available at [https://github.com/OritLeshem](https://github.com/OritLeshem)
 
-- 📫 How to reach me **azmono@gmail.com**
+ 📫 How to reach me **azmono@gmail.com**
 
-- 📄 Know about my experiences [https://oritleshem.github.io/Orit-Leshem-Portfolio/](https://oritleshem.github.io/Orit-Leshem-Portfolio/)
+ 📄 Know about my experiences [https://oritleshem.github.io/Orit-Leshem-Portfolio/](https://oritleshem.github.io/Orit-Leshem-Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
