@@ -1,6 +1,8 @@
 <h1 align="center">Hi!  I'm Orit Leshem 👋</h1>
 <h3 align="center">A passionate fullstack developer from Canada</h3>
-
+ 
+ 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
+ 
  🌱 I’m currently working on a spotify clone in react.js, node.js and mongoDB 
 
  🏆 I recently built a clone of fiverr, check it out, it has everything! [finderr](https://finderr.onrender.com/)
